@@ -1,6 +1,6 @@
 # typing-CrazyArcade
 2학년 객체지향언어2 기말 프로젝트입니다. 주제는 산성비 게임이고 크레이지아케이드로 구현해보았습니다.
-### 게임 소개
+# 게임 소개
 - 단어 편집 버튼을 눌러 단어를 확인하고 추가한다.
 - 랭킹 보기 버튼을 눌러 저장되어있는 랭크를 확인한다.
 - 시작 버튼을 눌러 캐릭터를 선택하고 아이디를 입력한 후 시작한다.
@@ -12,12 +12,12 @@
 - 보스라운드를 승리하면 점수가 100점 증가하고 저장이 된다.
 <hr>
 
-### 프로그램 구조
+# 프로그램 구조
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/e10d6a5b-3741-44b7-b357-711ba004a937" />
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/69b35799-30cb-446e-9ff4-cd08686323d8" />
 <hr>
 
-### 실행 과정
+# 실행 과정
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/eff0cd71-af16-4acb-9fa2-b3855bcc4d89" />
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/04ceb439-0d7c-4547-b803-3c8f03912aa3" />
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/31e8628d-4ec4-4d0f-be0c-6982e16c5cc3" />
