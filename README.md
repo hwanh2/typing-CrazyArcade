@@ -13,7 +13,7 @@
 
 ### 프로그램 구조
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/e10d6a5b-3741-44b7-b357-711ba004a937" />
-/br
+/hr
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/69b35799-30cb-446e-9ff4-cd08686323d8" />
 
 ### 실행 과정
