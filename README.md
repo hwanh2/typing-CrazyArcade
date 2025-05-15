@@ -16,6 +16,7 @@
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/e10d6a5b-3741-44b7-b357-711ba004a937" />
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/69b35799-30cb-446e-9ff4-cd08686323d8" />
 <hr>
+
 ### 실행 과정
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/eff0cd71-af16-4acb-9fa2-b3855bcc4d89" />
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/04ceb439-0d7c-4547-b803-3c8f03912aa3" />
