@@ -10,12 +10,12 @@
 - 메뉴에서 배경음악을 멈추고 게임을 나갈 수 있다.
 - 보스 라운드에서는 물풍선 생성 속도와 떨어지는 속도가 소폭 상승한다.
 - 보스라운드를 승리하면 점수가 100점 증가하고 저장이 된다.
+<hr>
 
 ### 프로그램 구조
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/e10d6a5b-3741-44b7-b357-711ba004a937" />
-<hr>
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/69b35799-30cb-446e-9ff4-cd08686323d8" />
-
+<hr>
 ### 실행 과정
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/eff0cd71-af16-4acb-9fa2-b3855bcc4d89" />
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/04ceb439-0d7c-4547-b803-3c8f03912aa3" />
